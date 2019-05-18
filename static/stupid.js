@@ -1,6 +1,5 @@
 function checktext() {
   let userAnswer = document.getElementById('stupid').value.toLowerCase();
-  alert(userAnswer)
   if ( userAnswer.length >= 10  ){
       if(userAnswer == "695hmiukf8gdlpa"){
         alert("YEY! CODE CORRECT!");

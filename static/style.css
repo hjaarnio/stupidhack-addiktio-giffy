@@ -1,0 +1,54 @@
+body{
+  background: yellow;
+  display: block;
+
+}
+.stupid-content{
+  padding: 60px;
+  text-align: center;
+  background-image: url("1358088-bigthumbnail.jpg");
+  height: 100%;
+}
+.stupid-text{
+  padding:20px;
+}
+.stupid-button{
+  padding: 200px;
+}
+.gif {
+  padding:50px;
+}
+
+.stupid-fruit{
+  padding:50px;
+}
+input[type=text] {
+  width: 600px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background:yellow;
+  color:red;
+  font-size: 25px;
+  font-family: 'Baloo Bhai', cursive;
+}
+button {
+  font-family:"px sans nouveaux";
+  font-size: 2em;
+  outline: 1px solid #000000;
+  background:#C0C0C0;
+  border-width:1px;
+  border-style: solid;
+  border-color:#FFFFFF #808080 #808080 #FFFFFF;
+  padding: 4px 10px;
+  margin: 20px auto 3px;
+  display:block;
+  position:relative;
+  bottom:0px;
+}
+button:hover{
+  background: yellow;
+}
+button:focus{
+  background: blue;
+}
